@@ -57,6 +57,7 @@ public class BoardVO extends SearchVO {
 	 */
 	public String getBbscttNo() {
 		return bbscttNo;
+		system.out.println("bbscttNo"+ bbscttNo);
 	}
 
 	/**
